@@ -1,0 +1,28 @@
+v 0.1
+d STATA Package: LPDENSITY
+d 
+d Authors: Matias D. Cattaneo, Department of Economics, University of Michigan, cattaneo@umich.edu
+d          Michael Jansson, Department of Economics, UC-Berkeley, mjansson@econ.berkeley.edu
+d          Xinwei Ma, Department of Economics, University of Michigan, xinweima@umich.edu
+d
+d Date: 07Jul2017
+d 
+f lpbwdensity.ado
+f lpbwdensity.sthlp
+f lpdensity.ado
+f lpdensity.sthlp
+f lpdensity_bwIMSE.mo
+f lpdensity_bwIROT.mo
+f lpdensity_bwMSE.mo
+f lpdensity_bwROT.mo
+f lpdensity_Cgen.mo
+f lpdensity_data.csv
+f lpdensity_fn.mo
+f lpdensity_fun.do
+f lpdensity_Ggen.mo
+f lpdensity_illustration.do
+f lpdensity_normDgp.mo
+f lpdensity_optFunc.mo
+f lpdensity_quantile.mo
+f lpdensity_Sgen.mo
+f lpdensity_Tgen.mo
