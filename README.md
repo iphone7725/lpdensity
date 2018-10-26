@@ -1,4 +1,4 @@
-#lpdensity
+# lpdensity
 
 The <font face="courier new, monospace">lpdensity</font> package provides <font face="courier new, monospace">Stata</font> and <font face="courier new, monospace">R</font> implementations of bandwidth selection, point estimation and inference procedures for local polynomial distribution and density methods.
 
