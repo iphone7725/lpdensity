@@ -12,9 +12,13 @@ For technical, methodological and implementation details see the following paper
 **Implementation in Stata:**
 
 *   To install/update in Stata type:  
-<font face="courier new, monospace" style="margin-left:60px">net install lpdensity, from(https://sites.google.com/site/nppackages/lpdensity/stata) replace</font>  
+```
+. net install lpdensity, from(https://sites.google.com/site/nppackages/lpdensity/stata) replace
+```
   **or**  
-<font face="courier new, monospace" style="margin-left:60px">github install iphone7725/lpdensity</font>
+```
+. github install iphone7725/lpdensity
+```
 
 *   Help files: [<font face="courier new, monospace">lpdensity</font>](https://sites.google.com/site/nppackages/lpdensity/stata/lpdensity.pdf?attredirects=0), [<font face="courier new, monospace">lpbwdensity</font>](https://sites.google.com/site/nppackages/lpdensity/stata/lpbwdensity.pdf?attredirects=0) -- Replication files: [do-file](https://sites.google.com/site/nppackages/lpdensity/stata/lpdensity_illustration.do?attredirects=0)
 *   Repository for manual installation: [https://sites.google.com/site/nppackages/lpdensity/stata](https://sites.google.com/site/nppackages/lpdensity/stata)
@@ -22,7 +26,9 @@ For technical, methodological and implementation details see the following paper
 **Implementation in R:**
 
 *   To install/update in R type:  
-<font face="courier new, monospace" style="margin-left:60px">install.packages('lpdensity')</font>
+```
+. install.packages('lpdensity')
+```
 
 *   [Manual](https://cran.r-project.org/web/packages/lpdensity/lpdensity.pdf) -- Replication files: [R-script](https://sites.google.com/site/nppackages/lpdensity/r/lpdensity_illustration.R?attredirects=0)
 *   [CRAN repository](https://cran.r-project.org/package=lpdensity)
