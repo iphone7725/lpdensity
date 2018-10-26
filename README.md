@@ -6,8 +6,8 @@ This work is supported by the National Science Foundation through grant [SES-145
 
 For technical, methodological and implementation details see the following papers (and references therein):
 
-*   Cattaneo, Jansson and Ma (2017a): [Simple Local Polynomial Density Estimators](https://sites.google.com/site/nppackages/lpdensity/Cattaneo-Jansson-Ma_2017_LocPolDensity.pdf?attredirects=0), working paper. [[Supplemental Appendix](https://sites.google.com/site/nppackages/lpdensity/Cattaneo-Jansson-Ma_2017_LocPolDensity--Supplement.pdf?attredirects=0&amp;attredirects=0--Supplement.pdf)]
-*   Cattaneo, Jansson and Ma (2017b): [<font face="courier new, monospace">lpdensity</font>: Local Polynomial Density Estimation and Inference](https://sites.google.com/site/nppackages/lpdensity/Cattaneo-Jansson-Ma_2017_lpdensity.pdf?attredirects=0), working paper.
+*   Cattaneo, Jansson and Ma (2017a): [Simple Local Polynomial Density Estimators](), working paper. [[Supplemental Appendix]()]
+*   Cattaneo, Jansson and Ma (2017b): [<font face="courier new, monospace">lpdensity</font>: Local Polynomial Density Estimation and Inference](), working paper.
 
 **Implementation in Stata:**
 
@@ -20,8 +20,8 @@ For technical, methodological and implementation details see the following paper
 . github install iphone7725/lpdensity
 ```
 
-*   Help files: [<font face="courier new, monospace">lpdensity</font>](https://sites.google.com/site/nppackages/lpdensity/stata/lpdensity.pdf?attredirects=0), [<font face="courier new, monospace">lpbwdensity</font>](https://sites.google.com/site/nppackages/lpdensity/stata/lpbwdensity.pdf?attredirects=0) -- Replication files: [do-file](https://sites.google.com/site/nppackages/lpdensity/stata/lpdensity_illustration.do?attredirects=0)
-*   Repository for manual installation: [https://sites.google.com/site/nppackages/lpdensity/stata](https://sites.google.com/site/nppackages/lpdensity/stata)
+*   Help files: [<font face="courier new, monospace">lpdensity</font>](https://sites.google.com/site/nppackages/lpdensity/stata/lpdensity.pdf?attredirects=0), [<font face="courier new, monospace">lpbwdensity</font>]() -- Replication files: [do-file]()
+*   Repository for manual installation: [https://sites.google.com/site/nppackages/lpdensity/stata]()
 
 **Implementation in R:**
 
@@ -30,7 +30,7 @@ For technical, methodological and implementation details see the following paper
 . install.packages('lpdensity')
 ```
 
-*   [Manual](https://cran.r-project.org/web/packages/lpdensity/lpdensity.pdf) -- Replication files: [R-script](https://sites.google.com/site/nppackages/lpdensity/r/lpdensity_illustration.R?attredirects=0)
+*   [Manual](https://cran.r-project.org/web/packages/lpdensity/lpdensity.pdf) -- Replication files: [R-script]()
 *   [CRAN repository](https://cran.r-project.org/package=lpdensity)
 
 **Last update**: July 7, 2017.
